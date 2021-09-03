@@ -1,16 +1,15 @@
 # Jalach App
 
-_Sistema de administración y gestión financiera para bares y restaurantes_
+_Sistema de administración y gestión financiera para bares_
 
 
 ## Funcionalidads 🛠️
-1. VENTAS Y CUADRE DE CAJA  - Es el registro de las ventas del bar/restaurante
-2. INFORMES Y ESTADÍSTICAS - Un informe y las estadísticas del bar/restaurante.
-3. MOVIMIENTOS DE INVENTARIO - Son los registros del movimiento del inventario 
-4. CARTA DIGITAL
-5. PROVEEDORES Y CLIENTES - Es el registro de los proveedores y los clientes frecuentes
-6. GASTOS - el listado de los diferentes gastos generado por el bar/restaurante
-7. USUARIOS Y ROLES
+* EMPRESA: Donde se recibirán los datos de la empresa 
+* ADMINISTRATIVO: Será le contenedor de las funcionalidades de la empresa
+* NÓMINA: Donde se registrarán los empleados
+* INVENTARIO: Donde se ingresarán los productos
+* FACTURACIÓN: Donde se dará el balance general financiero de la empresa.
+* ORDENES: Donde se ingresará los pedidos de una mesa especifica.
 
 
 ## Autores ✒️
