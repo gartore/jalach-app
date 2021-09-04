@@ -4,7 +4,6 @@ _Sistema de administración y gestión financiera para bares_
 
 Esta aplicación web permitirá llevar un control total de los procesos relacionados a la gestión de un bar, desde las ventas diarias hasta verificación de nómina.
 De una manera sencilla y agil podrá gestionar sus inventarios para resurtir o agregar artículos nuevos y cada empleado podrá darle seguimiento a sus horas trabajas en esta misma plataforma de servicios.
-
 Brindará un ambiente amigable, ágil y moderno donde podrá vizualizar el cecimiento de su negocio.
 
 
