@@ -1,6 +1,6 @@
 # Jalach App
 
-_Sistema de administración y gestión financiera para bares_
+## Sistema de administración y gestión financiera para bares
 
 Esta aplicación web permitirá llevar un control total de los procesos relacionados a la gestión de un bar, desde las ventas diarias hasta verificación de nómina.
 De una manera sencilla y agil podrá gestionar sus inventarios para resurtir o agregar artículos nuevos y cada empleado podrá darle seguimiento a sus horas trabajas en esta misma plataforma de servicios.
@@ -8,7 +8,7 @@ Brindará un ambiente amigable, ágil y moderno donde podrá vizualizar el cecim
 
 
 
-## Módulos Operacionales 🛠️
+### Módulos Operacionales 🛠️
 * EMPRESA: Donde se recibirán los datos de la empresa 
 * ADMINISTRATIVO: Será le contenedor de las funcionalidades de la empresa
 * NÓMINA: Donde se registrarán los empleados
@@ -17,10 +17,7 @@ Brindará un ambiente amigable, ágil y moderno donde podrá vizualizar el cecim
 * ORDENES: Donde se ingresará los pedidos de una mesa especifica.
 
 
-## Autores ✒️
+### Autores ✒️
 
-* **Sergio David Díaz Carvajal**  - *Desarrollador* - []() - sergioddcar@gmail.com
-* **Edwin Alonso García Fuentes** - *Desarrollador* - []() - edalgafu@gmail.com
-* **Gariel Gama Sarmiento** - *Desarrollador* - []() - garigama174@gmail.com
-* **Juan Antonio Ceballos Usuga** - *Desarrollador* - []() - jacu29@gmail.com
-* **Guisel Marcela Martinez** - *Desarrollador* - []() - marceloti1218@gmail.com
+* **Sergio David Díaz Carvajal**    - *Desarrollador* - []() - sergioddcar@gmail.com
+* **Juan Antonio Ceballos Usuga**   - *Desarrollador* - [jacu29](https://gitlab.com/jacu29) - jacu29@gmail.com
