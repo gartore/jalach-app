@@ -19,5 +19,6 @@ Brindará un ambiente amigable, ágil y moderno donde podrá vizualizar el cecim
 
 ### Autores ✒️
 
-* **Sergio David Díaz Carvajal**    - *Desarrollador* - []() - sergioddcar@gmail.com
-* **Juan Antonio Ceballos Usuga**   - *Desarrollador* - [jacu29](https://gitlab.com/jacu29) - jacu29@gmail.com
+* **Sergio David Díaz Carvajal** - *Desarrollador* - [sergioddcar1](https://gitlab.com/sergioddcar1) - sergioddcar@gmail.com
+* **Juan Antonio Ceballos Usuga** - *Desarrollador* - [jacu29](https://gitlab.com/jacu29) - jacu29@gmail.com
+* **Gariel Gama Sarmiento** - *Desarrollador* - [garigama174](https://gitlab.com/garigama174) - garigama174@gmail.com
