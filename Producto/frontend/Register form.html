@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro en Jalach</title>
+</head>
+<body style="background-color: #A4161A;">
+    <h1 style="color: black;">Formulario de Registro </h1>
+    <form method="POST" action="mi_servidor" autocomplete="on">
+        <fieldset style="color:black;background-color: white;">
+            <legend style= "background-color: white;"><b>Datos del Administrador</b></legend>
+            <label for="user"><b>Usuario</b></label><br>
+            <input type="text" id="user" name="user" size="30"
+            placeholder="Escribe tu usuario" required="true"><br>
+
+            <label for="mainPassword"><b>Contraseña</b></label><br>
+            <input type="password" id="mainPassword" name="mainPassword" size="30"
+            placeholder="Escribe tu contraseña" required="true"><br>
+
+            <label for="companyName"><b>Razón Social del Negocio</b></label><br>
+            <input type="text" id="companyName" name="companyName" 
+            size="30" required="true"><br>
+
+            <label for="rut"><b>Registro Único Tributario</b></label><br>
+            <input type="text" id="rut" name="rut" size="30"
+            placeholder="No incluya guiones" required="true"><br>
+
+            <label for="email"><b>Email</b></label><br>
+            <input type="email" id="email" name="email" 
+            size="30" required="true"><br>
+            
+            <label for="cell"><b>WhatsApp</b></label><br>
+            <input type="tel" id="cell" name="cell" size="30"
+            placeholder="Indicativo de país al inicio" required="true"><br>
+
+            <label for="phone"><b>Teléfono</b></label><br>
+            <input type="tel" id="phone" name="phone" size="30"
+            placeholder="Indicativo local al inicio" required="true"><br>
+
+            <label for="mainAddress"><b>Dirección actual</b></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <label for="adAddress"><b>Información Adicional</b></label><br>
+            <input type="text" id="mainAddress" name="mainAddress" 
+            size="20" required="true">
+            <input type="text" id="adAddress" name="adAddress"
+            placeholder="Casa, local, apto, etc..." size="20"><br>
+
+            <label for="city"><b>Ciudad</b></label><br>
+            <input type="text" id="city" name="city" 
+            size="30" required="true"><br>
+
+            &nbsp;<label for="openingTime"><b>Horario de Apertura</b></label>&nbsp;&nbsp;&nbsp;
+            <label for="closingTime"><b>Horario de Cierre</b></label><br>
+            <input type="time" id="openngTime" name="openingTime" required="true">
+            <input type="time" id="closingTime" name="closingTime" required="true"><br>            
+        </fieldset>
+
+    </form>
+</body>
+</html>
