@@ -1,0 +1,90 @@
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+    display:flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+.container{
+    width: 900px;
+    height: 600px;
+    border: 0px;
+    box-shadow: 0px 1px 17px 1px rgba(0,0,0,0.79);-webkit-box-shadow: 0px 1px 17px 1px rgba(0,0,0,0.79);-moz-box-shadow: 0px 1px 17px 1px rgba(0,0,0,0.79);
+    border-radius: 20px;
+    display: flex;
+    padding: 0%;
+}
+.box1{
+    margin: 0%;
+    width: 45%;
+    background-image: url("../pexels-guilherme-rossi-1819669.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    opacity: .8;
+    padding: 20px;
+}
+h1.text1{
+    margin-top: 230px;
+    font-size: 60px;
+    
+}
+
+p.text1{ 
+    margin-right: 40px;
+    margin-top: 0%;
+    font-size: 30px;
+}
+
+.box2{
+    margin: 0%;
+    width: 50%;
+    margin-left: 20px;
+    padding: 20px;
+}
+span.text2{
+    justify-self: center;
+    margin-left: 30px;
+    font-size: 14px;
+}
+
+h1.text2{
+    font-family: 'Work Sans', sans-serif;
+    margin: 0%;
+    margin-bottom: 20px;
+    font-size: 300% ;
+}
+input{
+    width: 100 px;
+    height:30px;
+    border: 1px black solid;
+    margin: 2px;
+    margin-left: 0%;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+form{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+.box3, .box4, .box5, .box6, .box7, .box8, .box9, .box10, .box11{
+    display: flex;
+    max-width: 314px;
+    align-items:center;
+}
+
+img{
+    border: 1px black solid;
+    background-color: #d3d3d3;
+    margin: 0%;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+button{
+    width: 280px;
+    height: 30px;
+    border-radius: 5px;
+}
+#openingTime, #closingTime{
+    border-radius: 5px;
+}
