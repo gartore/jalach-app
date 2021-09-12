@@ -32,9 +32,12 @@ body{
     border-bottom-left-radius: 20px;
     opacity: .8;
     padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 h1.text1{
-    margin-top: 230px;
+    /* margin-top: 230px; */
     font-size: 60px;
     
 }
